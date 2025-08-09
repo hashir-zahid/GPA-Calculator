@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ 
+  <rect width="64" height="64" rx="12" fill="#003366"/>
+
+  <polygon points="32,10 58,22 32,34 6,22" fill="#ffffff"/>
+
+  <path d="M18 29L32 36L46 29V38C46 41.3 39.7 44 32 44C24.3 44 18 41.3 18 38V29Z" fill="#ffffff"/>
+
+  <circle cx="32" cy="50" r="2" fill="#4CAF50"/>
+
+  <path d="M30 50V56C30 56.6 30.4 57 31 57H33C33.6 57 34 56.6 34 56V50" fill="#4CAF50"/>
+
+  <polygon points="12,12 10.5,14.5 8,15 10.5,16.5 12,19 13.5,16.5 16,15 13.5,14.5" fill="#FFD700"/>
+
+  <polygon points="52,12 50.5,14.5 48,15 50.5,16.5 52,19 53.5,16.5 56,15 53.5,14.5" fill="#FFD700"/>
+</svg>
