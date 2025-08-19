@@ -13,11 +13,20 @@ A lightweight React app that calculates GPA based on NUML university's grading c
 
 Enter your course details (e.g., grade, credit hours), and the GPA calculator will compute your GPA based on NUML's official rules.
 
+
 ## 📦 Tech Stack
 
 - React (Functional Components & Hooks)
 - CSS (basic styling)
 - No backend or database required
+
+## 🌐 Use This Site
+
+You can try out the GPA Calculator live here:  
+👉 [gpacalcify.netlify.app](https://gpacalcify.netlify.app)
+
+No installation needed — just open the link in your browser!
+
 
 ## 🛠️ Customization
 
