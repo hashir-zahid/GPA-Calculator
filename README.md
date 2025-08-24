@@ -23,7 +23,7 @@ Enter your course details (e.g., grade, credit hours), and the GPA calculator wi
 ## 🌐 Use This Site
 
 You can try out the GPA Calculator live here:  
-👉 [gpacalcify.netlify.app](https://hashir-gpacalcify.netlify.app)
+👉 [hashir-gpacalcify.netlify.app](https://hashir-gpacalcify.netlify.app)
 
 No installation needed — just open the link in your browser!
 
